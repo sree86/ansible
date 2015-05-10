@@ -1,0 +1,20 @@
+---
+
+- hosts: euboxes
+  sudo: yes
+
+  roles:
+  - update
+
+- hosts: euapi
+  sudo: yes
+
+  roles:
+  - apipkgs
+
+- hosts: euapp
+  sudo: yes
+
+  roles:
+  - appserverpkgs
+

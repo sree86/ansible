@@ -1,0 +1,20 @@
+---
+
+- hosts: sgboxes
+  sudo: yes
+
+  roles:
+  - update
+
+- hosts: sgapi
+  sudo: yes
+
+  roles:
+  - apipkgs
+
+- hosts: sgapp
+  sudo: yes
+
+  roles:
+  - appserverpkgs
+

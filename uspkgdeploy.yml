@@ -1,0 +1,20 @@
+---
+
+- hosts: usboxes
+  sudo: yes
+
+  roles:
+  - update
+
+- hosts: usapi
+  sudo: yes
+
+  roles:
+  - apipkgs
+
+- hosts: usapp
+  sudo: yes
+
+  roles:
+  - appserverpkgs
+

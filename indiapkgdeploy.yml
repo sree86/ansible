@@ -1,0 +1,20 @@
+---
+
+- hosts: indiaboxes
+  sudo: yes
+
+  roles:
+  - update
+
+- hosts: indiaapi
+  sudo: yes
+
+  roles:
+  - apipkgs
+
+- hosts: indiaapp
+  sudo: yes
+
+  roles:
+  - appserverpkgs
+
