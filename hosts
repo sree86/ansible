@@ -1,19 +1,21 @@
 [indiaboxes]
-54.211.201.4 #apiapp5
-54.160.160.121 #apiapp6
-174.129.75.98 #apiapp7
-54.82.22.222 #apiapp8
-54.92.232.0 #apiapp9
-54.157.235.184 #apiapp10
+10.45.174.232 #apiapp3
+10.28.188.248 #apiapp4
+10.31.141.93 #apiapp5
+10.143.188.185 #apiapp6
+10.100.69.236 #apiapp7
+10.94.254.236 #apiapp8-new
+10.170.8.207 #apiapp9
 54.167.53.23 #appserver
 
 [indiaapi]
-54.211.201.4 #apiapp5
-54.160.160.121 #apiapp6
-174.129.75.98 #apiapp7
-54.82.22.222 #apiapp8
-54.92.232.0 #apiapp9
-54.157.235.184 #apiapp10
+10.45.174.232 #apiapp3
+10.28.188.248 #apiapp4
+10.31.141.93 #apiapp5
+10.143.188.185 #apiapp6
+10.100.69.236 #apiapp7
+10.94.254.236 #apiapp8-new
+10.170.8.207 #apiapp9
 
 [indiaapp]
 54.167.53.23 #appserver
