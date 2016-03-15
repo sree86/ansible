@@ -1,72 +1,7 @@
 [indiaboxes]
-10.45.174.232 #apiapp3
-10.28.188.248 #apiapp4
-10.31.141.93 #apiapp5
-10.143.188.185 #apiapp6
-10.100.69.236 #apiapp7
-10.94.254.236 #apiapp8-new
-10.170.8.207 #apiapp9
-54.167.53.23 #appserver
+a.b.c.d
+1.2.3.4
 
 [indiaapi]
-10.45.174.232 #apiapp3
-10.28.188.248 #apiapp4
-10.31.141.93 #apiapp5
-10.143.188.185 #apiapp6
-10.100.69.236 #apiapp7
-10.94.254.236 #apiapp8-new
-10.170.8.207 #apiapp9
+a.b.c.d
 
-[indiaapp]
-54.167.53.23 #appserver
-
-[usboxes]
-10.2.15.57 #apiapp1
-10.2.0.16 #appserver
-
-[usapi]
-10.2.15.57 #apiapp1
-
-[usapp]
-10.2.0.16 #appserver
-
-
-[euboxes]
-10.4.4.115 #apiapp1
-10.4.0.14 #apiapp2
-10.4.0.16 #appserver
-
-[euapi]
-10.4.4.115 #apiapp1
-10.4.0.14 #apiapp2
-
-[euapp]
-10.4.0.16 #appserver
-
-[sgboxes]
-10.8.0.20 #sgapiapp1
-10.8.14.52 #sgapiapp2
-10.8.5.246 #sgapiapp3
-10.8.3.203 #sgapiapp4
-10.8.11.180 #sgapiapp5
-10.8.11.181 #sgapiapp6
-10.8.6.113 #sgapiapp7
-10.8.6.111 #sgapiapp8
-10.8.6.112 #sgapiapp9
-10.8.6.110 #sgapiapp10
-10.8.0.10 #appserver
-
-[sgapi]
-10.8.0.20 #sgapiapp1
-10.8.14.52 #sgapiapp2
-10.8.5.246 #sgapiapp3
-10.8.3.203 #sgapiapp4
-10.8.11.180 #sgapiapp5
-10.8.11.181 #sgapiapp6
-10.8.6.113 #sgapiapp7
-10.8.6.111 #sgapiapp8
-10.8.6.112 #sgapiapp9
-10.8.6.110 #sgapiapp10
-
-[sgapp]
-10.8.0.10 #appserver
