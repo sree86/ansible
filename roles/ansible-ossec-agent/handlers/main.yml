@@ -1,0 +1,4 @@
+---
+- name: Restart OSSEC
+  service: name=ossec state=restarted
+
