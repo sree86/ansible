@@ -58,5 +58,11 @@ This will deploy the packages to the hosts defined on the hosts file. Siimilar w
 
 Please do reach to me if you really have any doubts regarding this.
 
- 
+We have added the below mentioned roles with the tasks defined:
+
+ansible-ossec-agent : This install the ossec agent with the key set and add to the host list to be monitored
+apt-dns-spoofing  : This is used for the dns spoofing during the ip chanage in the repo happens which will require the new signature to be saved on the machine
+user-flush : This is used to reset the user failures in the pam module
+update : This is to update the repo across the cluster
+apipkgs and appserverpkgs : This is to install any appserver and api packages 
 
