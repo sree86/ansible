@@ -1,0 +1,8 @@
+---
+
+- name: removal of dns spoffing issue
+  command: "ssh-keygen -f \"/root/.ssh/known_hosts\" -R debian.repo.com"
+
+- name: update the repo on boxes
+  apt: update_cache=yes force=yes
+

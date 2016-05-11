@@ -1,0 +1,5 @@
+---
+- name: flush the user
+  command: "pam_tally2 --reset -u sreejith"
+  sudo: true
+
